@@ -6,12 +6,12 @@
   </prop>
   <prop name="Size">400 400</prop>
   <prop name="BackColor">_3DFace</prop>
-  <prop name="RefPoint">176 175</prop>
+  <prop name="RefPoint">142.5 178.5</prop>
   <prop name="InitAndTermRef">True</prop>
   <prop name="SendClick">False</prop>
   <prop name="RefFileName"></prop>
   <prop name="DPI">96</prop>
-  <prop name="PDPI">95.9569</prop>
+  <prop name="PDPI">95.9999</prop>
   <prop name="layoutType">None</prop>
  </properties>
  <shapes>
@@ -19,11 +19,11 @@
    <properties>
     <prop name="serialId">1</prop>
     <prop name="Type"></prop>
-    <prop name="RefPoint">176 175</prop>
+    <prop name="RefPoint">142.5 178.5</prop>
     <prop name="Enable">True</prop>
     <prop name="Visible">True</prop>
     <prop name="ForeColor">{0,0,0}</prop>
-    <prop name="BackColor">{255,255,255}</prop>
+    <prop name="BackColor">Red</prop>
     <prop name="TabOrder">0</prop>
     <prop name="ToolTipText">
      <prop name="en_US.utf8"></prop>
@@ -36,10 +36,9 @@
     <prop name="BorderZoomable">False</prop>
     <prop name="BorderScalable">False</prop>
     <prop name="FillType">[solid]</prop>
-    <prop name="Geometry">1 0 0 1 23 28</prop>
-    <prop name="Center">176 175</prop>
-    <prop name="X-Radius">47</prop>
-    <prop name="Y-Radius">47</prop>
+    <prop name="Center">142.5 178.5</prop>
+    <prop name="X-Radius">52.5</prop>
+    <prop name="Y-Radius">52.5</prop>
    </properties>
   </shape>
  </shapes>
