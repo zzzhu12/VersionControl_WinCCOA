@@ -23,7 +23,7 @@
     <prop name="Enable">True</prop>
     <prop name="Visible">True</prop>
     <prop name="ForeColor">{0,0,0}</prop>
-    <prop name="BackColor">Blue</prop>
+    <prop name="BackColor">yellow</prop>
     <prop name="TabOrder">0</prop>
     <prop name="ToolTipText">
      <prop name="en_US.utf8"></prop>
